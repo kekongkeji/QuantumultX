@@ -1,7 +1,7 @@
 - 【iOS账号共享】圈x账号分享Quantumult X账号分享
 -  地址：http://suo.nz/5pEXZA
 
-- 注意事项：
+注意事项：
 1.密码手打，复制会带空格导致密码错误
 
 2.账号仅用于登录App Store不要用于登录icloud
