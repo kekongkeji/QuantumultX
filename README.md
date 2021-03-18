@@ -1,4 +1,4 @@
-- 【iOS账号共享】圈x账号分享Quantumult X账号分享
+- 【iOS账号共享】圈x账号分享共享Quantumult X账号分享共享
 -  地址：http://suo.nz/5pEXZA
 
 注意事项：
